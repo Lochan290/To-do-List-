@@ -1,1 +1,7 @@
-# To-do-List-
+# To-Do-List-
+
+To-Do List App or Website with HTML, CSS and JavaScript. 
+In this To Do list we can add our task list and mark that task as completed or incomplete. We can write the new task in the input box and click on the "Add" button then the new task will be added to the list.
+We can click on the task name to mark it as completed or incomplete task. I have added a close icon to delete the particular task from the To-Do list.
+
+In this JavaScript Project I have used Local Storage that will store the task list or To-Do list in the web browser, So that if you close and restart the browser then also it will display your saved To-Do List.
