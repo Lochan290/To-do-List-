@@ -8,7 +8,7 @@ In this JavaScript Project I have used Local Storage that will store the task li
 
 📸 Screenshots
 
-<img width="516" height="387" alt="Screenshot 2025-08-02 23-43-29" src="https://github.com/user-attachments/assets/bb9b47ee-6b3f-4241-8c62-b0c6b140ba0a" />
-<img width="470" height="352" alt="Screenshot 2025-08-02 23-42-55" src="https://github.com/user-attachments/assets/e7598caa-4e44-4498-9041-e85cb37a82c3" />
 <img width="470" height="352" alt="Screenshot 2025-08-02 23-42-10" src="https://github.com/user-attachments/assets/f4933bde-b13f-48c4-9a6d-6399f1a1031a" />
+<img width="470" height="352" alt="Screenshot 2025-08-02 23-42-55" src="https://github.com/user-attachments/assets/e7598caa-4e44-4498-9041-e85cb37a82c3" />
+<img width="516" height="387" alt="Screenshot 2025-08-02 23-43-29" src="https://github.com/user-attachments/assets/bb9b47ee-6b3f-4241-8c62-b0c6b140ba0a" />
 <img width="470" height="352" alt="Screenshot 2025-08-02 23-43-32" src="https://github.com/user-attachments/assets/44ddc9a1-cc3a-45e4-8a15-f3b44157f54c" />
